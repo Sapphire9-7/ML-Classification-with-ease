@@ -14,7 +14,7 @@ This repository is dedicated to various machine learning classification models a
 
 ## Classes and Functions
 
-### Model Classes
+### Model Classes (ModelName.py)
 
 1. **(Model)_Classic Function**
    - Create an instance of the class with training, validation, and testing data as parameters.
@@ -27,7 +27,7 @@ This repository is dedicated to various machine learning classification models a
 3. **(Model)_RandomizedSearchCV Function**
    - Similar to GridSearchCV function but uses RandomizedSearchCV for hyperparameter tuning.
 
-### Methods Class
+### Methods Class (Methods.py)
 
 1. **Grid_Search Function**
    - Takes model and parameters as inputs.
@@ -52,7 +52,7 @@ This repository is dedicated to various machine learning classification models a
 6. **feature_analysis Function**
    - Creates box plots of false positives and false negatives for feature analysis.
 
-### TreeOperations Class
+### TreeOperations Class (TreeOperations.py)
 
 1. **Visualize_tree Function**
    - Takes features as input and plots the tree for decision tree models.
