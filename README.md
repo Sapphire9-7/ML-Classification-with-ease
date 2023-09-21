@@ -1,6 +1,6 @@
 # Machine Learning Classification Models Repository
 
-This repository is dedicated to various machine learning classification models and related utility classes for efficient and readable code. Each model is encapsulated within a class that follows a common architecture for consistency and ease of use.
+This repository is dedicated to various machine learning classification models and related utility classes for efficient and readable code. Each model is encapsulated within a class that follows a common architecture for consistency and ease of use. It simplifies machine learning with organized, efficient classification models. Ideal for all skill levels, it offers default models, hyperparameter tuning, feature selection, and tree-specific operations.
 
 ## Table of Contents
 - [Classes and Functions](#classes-and-functions)
